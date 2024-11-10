@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.top-section {
+    border: 2px solid black;
+    padding: 12px;
+    padding-top: 0px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.image-section {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.beagle-image {
+    height: 400px;
+    width: 600px;
+}
+
+a {
+    text-decoration: none;
+}
